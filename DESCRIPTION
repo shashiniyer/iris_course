@@ -1,9 +1,10 @@
 Package: irisCourse
 Type: Package
-Title: Visualises a scatter-plot of `Sepal.Length` vs. `Petal.Width` of Iris flowers observed in the `iris` dataset
+Title: Iris Course!
 Version: 1.0
 Date: 2022-06-17
 Author: Shashi Nagarajan
 Maintainer: shana92@liu.se
-Description: Nada
+Description: Visualises a scatter-plot of `Sepal.Length` vs. `Petal.Width` of Iris flowers observed in the `iris` dataset
 License: GPL 3.0
+RoxygenNote: 7.1.2
